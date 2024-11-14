@@ -18,4 +18,4 @@ servidor.use(endpointes);
 
 
 
-servidor.listen(process.env.PORT, () => console.log(`A API SUBIU NA PORTA ${process.env.PORT}`))
+servidor.listen(process.env.PORT, () => console.log(` A API SUBIU NA PORTA ${process.env.PORT}`))
